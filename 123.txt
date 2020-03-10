@@ -1,1 +1,5 @@
-testchange1
+<<<<<<< HEAD
+testchange3
+=======
+testchange3
+>>>>>>> dev1
